@@ -92,7 +92,7 @@ export default function Projects() {
       
         <div className="text-center mt-12">
           <a
-            href="https://github.com/prodev717?tab=repositories"
+            href="https://github.com/muthuram06"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-6 py-3 text-lg font-semibold text-white bg-teal-500 hover:bg-teal-400 rounded-full transition-colors duration-300 shadow-lg"
