@@ -4,4 +4,3 @@
 
 A modern, interactive portfolio website Built with **React**, **Framer Motion**, and **Tailwind CSS**.
 
-I am Muthu ram 
