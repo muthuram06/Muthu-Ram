@@ -3,19 +3,19 @@ import { motion } from "framer-motion";
 const categories = {
   "Featured Projects": [
     { 
-      title: "Connekt", 
-      desc: "A social media platform designed exclusively for VIT-AP students. Features include asking/answering questions, finding teammates, reporting lost items, travel partners, and anonymous confessions. Built with React.js, Material UI, Node.js, Express.js, MongoDB, and Cloudinary.", 
-      github: "https://github.com/prodev717/connekt" 
+      title: "Vivo Health – Healthcare Management Web App", 
+      desc: " Developed a scalable healthcare platform to manage patient data and lab reports with a responsive frontend and secure backend", 
+      github: "https://vivo-health-gold.vercel.app/" 
     },
     { 
-      title: "Siteingest", 
+      title: " AI-Powered Flood Risk Assessment System", 
       desc: "A full-stack SaaS platform for website hosting with subdomain support, ad injection for monetization, and built-in analytics. Uses React, Bootstrap, PocketBase, and Flask.", 
-      github: "https://github.com/prodev717/siteingest" 
+      github: "https://ai-powered-flood-risk-assessment-to-two.vercel.app/" 
     },
     { 
-      title: "Git2Know", 
-      desc: "AI-powered GitHub profile summarizer with Q&A. Built using React frontend and Flask backend, integrating Gemini API and GitHub API to provide insights about repositories, skills, and README content.", 
-      github: "https://github.com/prodev717/git2know" 
+      title: " AI Resume Analyzer – Smart Resume Insights", 
+      desc: "Built an AI-driven flood risk prediction system using Next.js, FastAPI,Python, and Google Maps API, achieving 90%+ accuracy through Gemini-enhanced geospatial analysis. Automated CI/CDwith Vercel and Render, reducing deployment time by 60% and delivering a robust live MVP", 
+      github: "https://ai-resume-analyzer-lac-chi.vercel.app/" 
     },
   ],
 };

@@ -2,11 +2,11 @@ import { motion } from "framer-motion";
 
 const certifications = [
   {
-    title: "Introduction to Java",
-    provider: "Infosys Springboard",
-    date: "Sept 2023",
+    title: "Introduction to Information Technology and AWS Cloud",
+    provider: "Coursera",
+    date: "Oct 2024",
     description:
-      "Comprehensive introduction to Java programming covering fundamentals, object-oriented concepts, and problem-solving using Java.",
+      "Gained foundational knowledge of IT concepts and AWS cloud services, including basic architecture and deployment models.",
   },
   {
     title: "React Basics",
@@ -24,11 +24,11 @@ const certifications = [
   },
 ];
 
-export default function Experience() {
+export default function Certifications() {
   return (
     <section
-      id="experience"
-      className="relative w-full py-20 px-6 bg-[rgb(30,40,60)] text-white"
+      id="certifications"
+      className="relative w-full py-20 px-6 bg-[#1E283C] text-white"
     >
       <motion.div
         initial={{ opacity: 0, y: 20 }}

@@ -103,7 +103,7 @@ export default function AboutMe({
                   </span>
                   <br />
                   <span className="text-gray-300 text-base">
-                    CGPA: 8.5 / 10 • Expected Graduation: May 2026 • Chennai, TN
+                    CGPA: 7.50 / 10 • Expected Graduation: May 2026 • Chennai, TN
                   </span>
                 </p>
               </motion.div>
