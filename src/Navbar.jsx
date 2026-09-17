@@ -147,7 +147,7 @@ const Navbar = () => {
 
           <div className="hidden lg:block">
             <a
-              href="https://drive.google.com/file/d/1k0chhNTeoQdBiE9EpODtn6fhR2G-sqsq/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/12EMyJvANaf-5sbAx38dblWWgMBADYEVQ/view"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center gap-2 rounded-xl border border-white/10 bg-white/[0.04] px-4 py-2.5 text-sm font-semibold text-white transition-all duration-300 hover:-translate-y-0.5 hover:border-sky-400/30 hover:bg-sky-400/10"
